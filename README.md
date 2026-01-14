@@ -88,6 +88,45 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 
 ---
 
+## 🔄 How I Work
+
+<div align="center">
+
+### From Problem to Production in 4 Steps
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 1️⃣ Discovery Call
+Understand your problem, goals, and success criteria
+
+</td>
+<td width="25%" align="center">
+
+### 2️⃣ Scope & Proposal
+Clear deliverables, timeline, and pricing
+
+</td>
+<td width="25%" align="center">
+
+### 3️⃣ Sprint Execution
+Iterative delivery with regular demos and feedback
+
+</td>
+<td width="25%" align="center">
+
+### 4️⃣ Handoff
+Documentation, training, and ongoing support
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🔥 Focus Areas
 
 <details open>
@@ -163,7 +202,7 @@ work_highlights = {
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws,gcp,github,jenkins&theme=dark&perline=9" alt="Tech Stack Part 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,linux,bash,git,vscode,prometheus,grafana&theme=dark&perline=9" alt="Tech Stack Part 2" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prometheus,grafana&theme=dark&perline=5" alt="Tech Stack Part 2" />
 
 ### AI & LLM Expertise
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -178,6 +217,8 @@ work_highlights = {
 ## 🚀 Ready to Work Together?
 
 <div align="center">
+
+![Available for Work](https://img.shields.io/badge/Status-Available_for_Work-success?style=for-the-badge&logo=statuspage&logoColor=white)
 
 ### Sprint-Based Delivery • Production-Ready Outcomes • Telemetry-First Systems
 
@@ -216,23 +257,6 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 
 ---
 
-## 🏅 Expertise Badges
-
-<div align="center">
-
-![Python Expert](https://img.shields.io/badge/Python-Expert-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![FastAPI Production](https://img.shields.io/badge/FastAPI-Production-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
-![LangChain Agentic](https://img.shields.io/badge/LangChain-Agentic-informational?style=for-the-badge&logo=chainlink&logoColor=white&color=121212)
-![RAG Systems](https://img.shields.io/badge/RAG-Grounded%20Answers-informational?style=for-the-badge&color=FF6B6B)
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E)
-![GCP Cloud](https://img.shields.io/badge/GCP-Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Observability-informational?style=for-the-badge&logo=opentelemetry&logoColor=white&color=000000)
-![Security Automation](https://img.shields.io/badge/Security-Automation-informational?style=for-the-badge&color=62D84E)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -257,10 +281,6 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 ---
 
 <div align="center">
-
-### 💭 "Automate the routine. Observe the critical. Ship with confidence."
-
-**Let's build something reliable together.** 🚀
 
 <br/>
 
