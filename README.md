@@ -6,7 +6,6 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![GitHub](https://img.shields.io/badge/GitHub-lumen--maximus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumen-maximus)
 
@@ -37,8 +36,6 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 <div align="center">
 
 > **10+ years** building production Python systems across **fintech, security, and AI**
-
-[![LinkedIn](https://img.shields.io/badge/View_Full_Experience-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 
 </div>
 
@@ -84,6 +81,45 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 - Docker & Kubernetes deployments
 - CI/CD pipeline automation
 - OpenTelemetry tracing & observability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔄 How I Work
+
+<div align="center">
+
+### From Problem to Production in 4 Steps
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 1️⃣ Discovery Call
+Understand your problem, goals, and success criteria
+
+</td>
+<td width="25%" align="center">
+
+### 2️⃣ Scope & Proposal
+Clear deliverables, timeline, and pricing
+
+</td>
+<td width="25%" align="center">
+
+### 3️⃣ Sprint Execution
+Iterative delivery with regular demos and feedback
+
+</td>
+<td width="25%" align="center">
+
+### 4️⃣ Handoff
+Documentation, training, and ongoing support
 
 </td>
 </tr>
@@ -166,7 +202,7 @@ work_highlights = {
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws,gcp,github,jenkins&theme=dark&perline=9" alt="Tech Stack Part 1" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,linux,bash,git,vscode,prometheus,grafana&theme=dark&perline=9" alt="Tech Stack Part 2" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prometheus,grafana&theme=dark&perline=5" alt="Tech Stack Part 2" />
 
 ### AI & LLM Expertise
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -182,15 +218,20 @@ work_highlights = {
 
 <div align="center">
 
+![Available for Work](https://img.shields.io/badge/Status-Available_for_Work-success?style=for-the-badge&logo=statuspage&logoColor=white)
+
 ### Sprint-Based Delivery • Production-Ready Outcomes • Telemetry-First Systems
 
 I help teams ship **reliable AI systems** and **security automation** through focused sprint engagements. Every deliverable includes **production-grade code**, **observability**, and **clear documentation**.
 
 <br/>
 
-<!-- TODO: Replace the Google Calendar link below with your personal scheduling link from Google Calendar > Appointment schedules -->
-[![Book a Discovery Call](https://img.shields.io/badge/📅_Book_a_Discovery_Call-Google_Meet-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![Email Me](https://img.shields.io/badge/✉️_Email_Me-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
+
+<!-- Coming soon: Freelance platform profiles -->
+<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile) -->
+<!-- [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/your-profile) -->
 
 <br/>
 
@@ -206,43 +247,11 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 
 ## 🎯 Open To
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🤖 AI Engineer
-LLM apps, RAG systems,<br/>agentic architectures
-
-</td>
-<td align="center" width="33%">
-
-### 🛡️ Security Automation
-Cybersecurity developer,<br/>Python automation engineer
-
-</td>
-<td align="center" width="33%">
-
-### 💼 Consulting
-Sprint builds, automation hardening,<br/>production observability
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏅 Expertise Badges
-
 <div align="center">
 
-![Python Expert](https://img.shields.io/badge/Python-Expert-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![FastAPI Production](https://img.shields.io/badge/FastAPI-Production-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=009688)
-![LangChain Agentic](https://img.shields.io/badge/LangChain-Agentic-informational?style=for-the-badge&logo=chainlink&logoColor=white&color=121212)
-![RAG Systems](https://img.shields.io/badge/RAG-Grounded%20Answers-informational?style=for-the-badge&color=FF6B6B)
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232F3E)
-![GCP Cloud](https://img.shields.io/badge/GCP-Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=4285F4)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Observability-informational?style=for-the-badge&logo=opentelemetry&logoColor=white&color=000000)
-![Security Automation](https://img.shields.io/badge/Security-Automation-informational?style=for-the-badge&color=62D84E)
+**AI Engineer** • **Security Automation Engineer** • **Consulting Engagements**
+
+*Sprint-based builds • Production automation • Observability hardening*
 
 </div>
 
@@ -272,10 +281,6 @@ Sprint builds, automation hardening,<br/>production observability
 ---
 
 <div align="center">
-
-### 💭 "Automate the routine. Observe the critical. Ship with confidence."
-
-**Let's build something reliable together.** 🚀
 
 <br/>
 
