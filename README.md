@@ -6,7 +6,6 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![GitHub](https://img.shields.io/badge/GitHub-lumen--maximus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumen-maximus)
 
@@ -37,8 +36,6 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 <div align="center">
 
 > **10+ years** building production Python systems across **fintech, security, and AI**
-
-[![LinkedIn](https://img.shields.io/badge/View_Full_Experience-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 
 </div>
 
@@ -188,9 +185,12 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 
 <br/>
 
-<!-- TODO: Replace the Google Calendar link below with your personal scheduling link from Google Calendar > Appointment schedules -->
-[![Book a Discovery Call](https://img.shields.io/badge/📅_Book_a_Discovery_Call-Google_Meet-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![Email Me](https://img.shields.io/badge/✉️_Email_Me-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
+
+<!-- Coming soon: Freelance platform profiles -->
+<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile) -->
+<!-- [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/your-profile) -->
 
 <br/>
 
@@ -206,28 +206,13 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 
 ## 🎯 Open To
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-### 🤖 AI Engineer
-LLM apps, RAG systems,<br/>agentic architectures
+**AI Engineer** • **Security Automation Engineer** • **Consulting Engagements**
 
-</td>
-<td align="center" width="33%">
+*Sprint-based builds • Production automation • Observability hardening*
 
-### 🛡️ Security Automation
-Cybersecurity developer,<br/>Python automation engineer
-
-</td>
-<td align="center" width="33%">
-
-### 💼 Consulting
-Sprint builds, automation hardening,<br/>production observability
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
