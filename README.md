@@ -254,9 +254,7 @@ Sprint builds, automation hardening,<br/>production observability
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumen-maximus&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak Stats" />
 
-<br/>
 
-<img src="https://githubcard.com/lumen-maximus.svg?theme=tokyonight" alt="GitHub Stats" />
 
 </div>
 
