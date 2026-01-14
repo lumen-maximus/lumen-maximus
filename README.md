@@ -1,12 +1,9 @@
 <div align="center">
 
-# ⚡️ MAXAVIER JEAN-PHILIPPE ⚡️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20Security%20Automation%20•%20Production%20Systems&descSize=18&descAlignY=52"/>
 
-### AI Engineer • Security Automation Consultant • Production Systems Builder
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Ready+to+Transform+Your+Operations%3F;Sprint-Based+AI+%26+Security+Automation;Production-Ready+Systems+with+Full+Observability;Let's+Ship+Reliable%2C+Measurable+Solutions" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Production+AI+Systems;Automating+Security+Operations;Shipping+Reliable%2C+Observable+Code" alt="Typing SVG" />
-
-<br/>
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
@@ -20,6 +17,39 @@
 ## 🎯 Mission Statement
 
 I build **production AI systems** and **cybersecurity automations** in **Python**, with a bias for **reliability, observability, and shipping**. If it's manual, repetitive, or high-stakes, I turn it into a **measurable, auditable workflow**.
+
+---
+
+## 🏢 Experience Highlights
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/American_Express-006FCF?style=for-the-badge&logo=americanexpress&logoColor=white">
+<br><b>Generative AI Engineer</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Truist-4B286D?style=for-the-badge">
+<br><b>Cybersecurity Engineer</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bank_of_America-012169?style=for-the-badge">
+<br><b>Python Developer</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Consulting-6366F1?style=for-the-badge">
+<br><b>AI & Security Automation</b>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **7+ years** building production Python systems across **fintech, security, and AI**
+
+[![LinkedIn](https://img.shields.io/badge/View_Full_Experience-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
+
+</div>
 
 ---
 
@@ -143,31 +173,41 @@ work_highlights = {
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws,gcp,github,jenkins&theme=dark&perline=9" alt="Tech Stack Part 1" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,linux,bash,git,vscode,prometheus,grafana&theme=dark&perline=9" alt="Tech Stack Part 2" />
 
-### AI & LLM
+### AI & LLM Expertise
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Observability & Security
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Ready to Work Together?
+
+<div align="center">
+
+### Sprint-Based Delivery • Production-Ready Outcomes • Telemetry-First Systems
+
+I help teams ship **reliable AI systems** and **security automation** through focused sprint engagements. Every deliverable includes **production-grade code**, **observability**, and **clear documentation**.
+
+<br/>
+
+<!-- TODO: Replace the Google Calendar link below with your personal scheduling link from Google Calendar > Appointment schedules -->
+[![Book a Discovery Call](https://img.shields.io/badge/📅_Book_a_Discovery_Call-Google_Meet-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/)
+[![Email Me](https://img.shields.io/badge/✉️_Email_Me-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
+
+<br/>
+
+**What You Get:**
+- ⚡ **Sprint-based delivery** — Iterative, measurable progress
+- 🔍 **Full observability** — OpenTelemetry tracing, structured logging
+- 🛡️ **Production-ready code** — Tested, documented, maintainable
+- 📊 **Telemetry-first approach** — Every system is measurable from day one
 
 </div>
 
@@ -198,7 +238,7 @@ Sprint builds, automation hardening,<br/>production observability
 </tr>
 </table>
 
-----
+---
 
 ## 🏅 Expertise Badges
 
@@ -217,11 +257,26 @@ Sprint builds, automation hardening,<br/>production observability
 
 ---
 
-## 🌊 Activity Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Maxavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lumen-maximus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lumen-maximus&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lumen-maximus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<!-- Note: Snake animation will be generated automatically by the GitHub Action workflow. The image will appear after the first workflow run. -->
+<img src="https://raw.githubusercontent.com/lumen-maximus/lumen-maximus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -233,14 +288,12 @@ Sprint builds, automation hardening,<br/>production observability
 
 **Let's build something reliable together.** 🚀
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lumen-maximus&color=6366f1&style=for-the-badge)
 
 **⭐️ From [lumen-maximus](https://github.com/lumen-maximus)**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
