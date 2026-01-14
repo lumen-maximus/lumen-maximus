@@ -164,7 +164,8 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 
 <br/>
 
-[![Book a Discovery Call](https://img.shields.io/badge/📅_Book_a_Discovery_Call-Google_Meet-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.google.com/calendar/appointments)
+<!-- TODO: Replace the Google Calendar link below with your personal scheduling link from Google Calendar > Appointment schedules -->
+[![Book a Discovery Call](https://img.shields.io/badge/📅_Book_a_Discovery_Call-Google_Meet-4285F4?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.google.com/calendar/u/0/appointments/schedules/)
 [![Email Me](https://img.shields.io/badge/✉️_Email_Me-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
 
 <br/>
