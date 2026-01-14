@@ -45,7 +45,7 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 
 <div align="center">
 
-> **7+ years** building production Python systems across **fintech, security, and AI**
+> **10+ years** building production Python systems across **fintech, security, and AI**
 
 [![LinkedIn](https://img.shields.io/badge/View_Full_Experience-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 
