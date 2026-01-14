@@ -22,26 +22,17 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 
 ## 🏢 Experience Highlights
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/American_Express-006FCF?style=for-the-badge&logo=americanexpress&logoColor=white">
-<br><b>Generative AI Engineer</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Truist-4B286D?style=for-the-badge">
-<br><b>Cybersecurity Engineer</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Bank_of_America-012169?style=for-the-badge">
-<br><b>Python Developer</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Consulting-6366F1?style=for-the-badge">
-<br><b>AI & Security Automation</b>
-</td>
-</tr>
-</table>
+- **Generative AI Engineer — American Express (2024–Present)**  
+  Shipped **Python/FastAPI GenAI services** on **GCP** with **LangChain telemetry**, and built **RAG + agentic workflow patterns** with confidence gating and safe fallbacks.
+
+- **Cybersecurity Engineer — Truist Bank (2022–2024)**  
+  Modernized vulnerability reporting on **AWS (ECS Fargate/S3/IAM)**, integrated **Qualys/Veracode → ServiceNow** via Python APIs, and automated executive reporting.
+
+- **Python Developer — Bank of America (2018–2021)**  
+  Built secure Python services in a trading environment, strengthened repo governance/auditability, and delivered REST APIs with UI contributions.
+
+- **Independent Consulting — AI & Security Automation (2022–Present)** *(client-safe)*  
+  Built **agentic patch automation** (LangChain + OpenTelemetry/Jaeger), an **LLM SOC triage assistant** with guardrails + analyst handoff, and automation across **Slack + ServiceNow** plus a **Detection Engineering CMS**.
 
 <div align="center">
 
