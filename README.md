@@ -20,6 +20,39 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 
 ---
 
+## 🏢 Experience Highlights
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/American_Express-006FCF?style=for-the-badge&logo=americanexpress&logoColor=white">
+<br><b>Generative AI Engineer</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Truist-4B286D?style=for-the-badge">
+<br><b>Cybersecurity Engineer</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bank_of_America-012169?style=for-the-badge">
+<br><b>Python Developer</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Consulting-6366F1?style=for-the-badge">
+<br><b>AI & Security Automation</b>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **7+ years** building production Python systems across **fintech, security, and AI**
+
+[![LinkedIn](https://img.shields.io/badge/View_Full_Experience-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
+
+</div>
+
+---
+
 ## 💼 What I Deliver
 
 <table>
