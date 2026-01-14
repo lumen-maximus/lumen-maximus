@@ -265,7 +265,7 @@ Sprint builds, automation hardening,<br/>production observability
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lumen-maximus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://stats.rapidtools.dev/api/stats?username=lumen-maximus&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
