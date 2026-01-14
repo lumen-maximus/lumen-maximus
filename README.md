@@ -4,10 +4,12 @@
 
 ### AI Engineer • Security Automation Consultant • Production Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Production+AI+Systems;Automating+Security+Operations;Shipping+Reliable%2C+Observable+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Production+AI+Systems;Automating+Security+Operations;Shipping+Reliable%2C+Observable+Code" alt="Typing SVG" />
 
+<br/>
+<br/>
 
-
+[![Email](https://img.shields.io/badge/Email-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![GitHub](https://img.shields.io/badge/GitHub-lumen--maximus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumen-maximus)
 
