@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Production+AI+Systems;Automating+Security+Operations;Shipping+Reliable%2C+Observable+Code" alt="Typing SVG" />
 
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![GitHub](https://img.shields.io/badge/GitHub-lumen--maximus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumen-maximus)
 
@@ -195,28 +196,7 @@ Sprint builds, automation hardening,<br/>production observability
 </tr>
 </table>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lumen-maximus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumen-maximus&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lumen-maximus&theme=tokyonight&hide_border=true&background=0D1117&fire=6366F1&ring=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-</div>
-
----
+----
 
 ## 🏅 Expertise Badges
 
@@ -235,15 +215,15 @@ Sprint builds, automation hardening,<br/>production observability
 
 ---
 
-## 📌 Pinned Repos (Recommended)
+## 🌊 Activity Graph
 
-To maximize profile impact, pin repositories that showcase:
+<div align="center">
 
-1. **🤖 LLM Agent Workflows** – Guardrails, tracing, and multi-step orchestration  
-2. **📚 RAG Reference Implementation** – Evaluation metrics and citation tracking  
-3. **🛡️ Security Automation Patterns** – Slack and ServiceNow integrations  
-4. **⚡️ FastAPI Production Template** – CI/CD pipelines and OpenTelemetry integration  
+[![Maxavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lumen-maximus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+---
 
 <div align="center">
 
