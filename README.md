@@ -242,6 +242,7 @@ Sprint builds, automation hardening,<br/>production observability
 
 <div align="center">
 
+<!-- Note: Snake animation will be generated automatically by the GitHub Action workflow. The image will appear after the first workflow run. -->
 <img src="https://raw.githubusercontent.com/lumen-maximus/lumen-maximus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
