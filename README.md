@@ -6,32 +6,26 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
-[![GitHub](https://img.shields.io/badge/GitHub-lumen--maximus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumen-maximus)
+![Available for Work](https://img.shields.io/badge/Status-Available_for_Consulting-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 Mission Statement
+## 🎯 What I Do
 
-I build **production AI systems** and **cybersecurity automations** in **Python**, with a bias for **reliability, observability, and shipping**. If it's manual, repetitive, or high-stakes, I turn it into a **measurable, auditable workflow**.
+I build **production AI systems** and **security automations** in **Python**, with a bias for **reliability, observability, and shipping**. If it's manual, repetitive, or high-stakes, I turn it into a **measurable, auditable workflow**.
 
 ---
 
-## 🏢 Experience Highlights
+## 🏢 Experience
 
-- **Generative AI Engineer — American Express (2024–Present)**  
-  Shipped **Python/FastAPI GenAI services** on **GCP** with **LangChain telemetry**, and built **RAG + agentic workflow patterns** with confidence gating and safe fallbacks.
-
-- **Cybersecurity Engineer — Truist Bank (2022–2024)**  
-  Modernized vulnerability reporting on **AWS (ECS Fargate/S3/IAM)**, integrated **Qualys/Veracode → ServiceNow** via Python APIs, and automated executive reporting.
-
-- **Python Developer — Bank of America (2018–2021)**  
-  Built secure Python services in a trading environment, strengthened repo governance/auditability, and delivered REST APIs with UI contributions.
-
-- **Independent Consulting — AI & Security Automation (2022–Present)** *(client-safe)*  
-  Built **agentic patch automation** (LangChain + OpenTelemetry/Jaeger), an **LLM SOC triage assistant** with guardrails + analyst handoff, and automation across **Slack + ServiceNow** plus a **Detection Engineering CMS**.
+| Role | Company | Highlights |
+|------|---------|------------|
+| **Generative AI Engineer** | American Express (2024–Present) | Python/FastAPI GenAI on GCP, LangChain RAG + agentic workflows |
+| **Cybersecurity Engineer** | Truist Bank (2022–2024) | AWS vulnerability reporting, Qualys/Veracode → ServiceNow automation |
+| **Python Developer** | Bank of America (2018–2021) | Secure Python services, REST APIs, repo governance |
+| **Independent Consulting** | AI & Security (2022–Present) | Agentic patch automation, LLM SOC triage, Slack + ServiceNow bots |
 
 <div align="center">
 
@@ -50,17 +44,17 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 ### 🤖 LLM-Powered Automation
 - Agentic workflows & tool orchestration
 - RAG systems with grounded outputs
-- Multi-step AI pipelines
-- Prompt governance & versioning
+- Confidence gating & safe fallbacks
+- OpenTelemetry tracing for AI pipelines
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Security Operations Automation
+### 🛡️ Security Operations
 - SOC triage & incident routing
-- Slack-based incident response
+- Slack-based incident response bots
 - Vulnerability workflow integration
-- Escalation & enrichment systems
+- Detection lifecycle management
 
 </td>
 </tr>
@@ -70,7 +64,6 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 ### ⚙️ ITSM Automation
 - ServiceNow change validation
 - Approval workflow orchestration
-- Status automation via Python APIs
 - Audit trail maintenance
 
 </td>
@@ -80,7 +73,6 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 - FastAPI production services
 - Docker & Kubernetes deployments
 - CI/CD pipeline automation
-- OpenTelemetry tracing & observability
 
 </td>
 </tr>
@@ -90,36 +82,30 @@ I build **production AI systems** and **cybersecurity automations** in **Python*
 
 ## 🔄 How I Work
 
-<div align="center">
-
-### From Problem to Production in 4 Steps
-
-</div>
-
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 1️⃣ Discovery Call
-Understand your problem, goals, and success criteria
+### 1️⃣ Discovery
+Understand your problem & success criteria
 
 </td>
 <td width="25%" align="center">
 
-### 2️⃣ Scope & Proposal
-Clear deliverables, timeline, and pricing
+### 2️⃣ Proposal
+Clear deliverables, timeline & pricing
 
 </td>
 <td width="25%" align="center">
 
-### 3️⃣ Sprint Execution
-Iterative delivery with regular demos and feedback
+### 3️⃣ Sprint
+Iterative delivery with demos
 
 </td>
 <td width="25%" align="center">
 
 ### 4️⃣ Handoff
-Documentation, training, and ongoing support
+Docs, training & support
 
 </td>
 </tr>
@@ -127,166 +113,46 @@ Documentation, training, and ongoing support
 
 ---
 
-## 🔥 Focus Areas
-
-<details open>
-<summary><b>🧠 AI Engineering</b></summary>
-
-- **Agentic LLM workflows** with LangChain orchestration
-- **Production-grade RAG** with traceability and grounded outputs
-- **Prompt/version governance** for repeatability
-- **Confidence gating**, safe fallbacks, and human-in-the-loop patterns
-- **Safety guardrails** for high-stakes decision systems
-
-</details>
-
-<details open>
-<summary><b>🔐 Security Automation</b></summary>
-
-- **SOC triage assistants**: classify, summarize, recommend, route/escalate
-- **Slack incident-response bots**: routing, on-call escalation, SLA follow-ups
-- **Vulnerability workflow integrations** and reporting automation
-- **Detection Engineering CMS**: lifecycle management with versioning and audit metadata
-
-</details>
-
-<details open>
-<summary><b>📊 Delivery & Observability</b></summary>
-
-- **Python/FastAPI services** with clear OpenAPI contracts
-- **Docker/Kubernetes** deployments with CI/CD discipline
-- **OpenTelemetry + Jaeger** tracing for step-level visibility
-- **Structured logging** for production debugging
-- **Telemetry-first systems** for measurable outcomes
-
-</details>
-
----
-
-## 🏆 Selected Work Themes (Client-Safe)
-
-```python
-work_highlights = {
-    "agentic_patch_automation": {
-        "description": "Multi-step workflow orchestration",
-        "key_features": ["Tracing visibility", "Safe rollback", "Audit logs"]
-    },
-    "llm_soc_triage": {
-        "description": "AI-powered security operations",
-        "key_features": ["Safety guardrails", "Analyst handoff", "Risk gating"]
-    },
-    "detection_engineering_cms": {
-        "description": "Detection lifecycle management",
-        "key_features": ["Versioning", "Audit metadata", "Deployment automation"]
-    },
-    "slack_incident_bot": {
-        "description": "Incident response automation",
-        "key_features": ["Enrichment", "Routing", "Escalation", "SLA tracking"]
-    },
-    "servicenow_change_automation": {
-        "description": "Change management orchestration",
-        "key_features": ["Validation", "Approvals", "Status sync"]
-    },
-    "noc_automation": {
-        "description": "Platform productivity tooling",
-        "key_features": ["Sprint-based delivery", "Telemetry integration"]
-    }
-}
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,kubernetes,aws,gcp,github,jenkins&theme=dark&perline=9" alt="Tech Stack Part 1" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prometheus,grafana&theme=dark&perline=5" alt="Tech Stack Part 2" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,gcp&theme=dark&perline=6" alt="Core Stack" />
 
-### AI & LLM Expertise
+<br/><br/>
+
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Ready to Work Together?
+## 🚀 Let's Work Together
 
 <div align="center">
 
-![Available for Work](https://img.shields.io/badge/Status-Available_for_Work-success?style=for-the-badge&logo=statuspage&logoColor=white)
-
-### Sprint-Based Delivery • Production-Ready Outcomes • Telemetry-First Systems
-
-I help teams ship **reliable AI systems** and **security automation** through focused sprint engagements. Every deliverable includes **production-grade code**, **observability**, and **clear documentation**.
+Every engagement includes **production-grade code**, **full observability**, and **clear documentation**. 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lumen--maximus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
 [![Email Me](https://img.shields.io/badge/✉️_Email_Me-maxjeanphilippe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxjeanphilippe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumen-maximus)
+[![GitHub](https://img.shields.io/badge/GitHub-lumen--maximus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumen-maximus)
 
-<!-- Coming soon: Freelance platform profiles -->
-<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/your-profile) -->
-<!-- [![Upwork](https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/your-profile) -->
-
-<br/>
-
-**What You Get:**
-- ⚡ **Sprint-based delivery** — Iterative, measurable progress
-- 🔍 **Full observability** — OpenTelemetry tracing, structured logging
-- 🛡️ **Production-ready code** — Tested, documented, maintainable
-- 📊 **Telemetry-first approach** — Every system is measurable from day one
-
-</div>
-
----
-
-## 🎯 Open To
-
-<div align="center">
-
-**AI Engineer** • **Security Automation Engineer** • **Consulting Engagements**
-
-*Sprint-based builds • Production automation • Observability hardening*
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lumen-maximus&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak Stats" />
-
-
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- Note: Snake animation will be generated automatically by the GitHub Action workflow. The image will appear after the first workflow run. -->
-<img src="https://raw.githubusercontent.com/lumen-maximus/lumen-maximus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- 🚧 Freelance platforms coming soon!  -->
+<!-- [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR_ID) -->
+<!-- [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/YOUR_USERNAME) -->
 
 </div>
 
 ---
 
 <div align="center">
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lumen-maximus&color=6366f1&style=for-the-badge)
-
-**⭐️ From [lumen-maximus](https://github.com/lumen-maximus)**
 
 </div>
 
