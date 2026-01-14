@@ -211,7 +211,7 @@ I help teams ship **reliable AI systems** and **security automation** through fo
 
 </div>
 
-----
+---
 
 ## 🎯 Open To
 
@@ -238,7 +238,7 @@ Sprint builds, automation hardening,<br/>production observability
 </tr>
 </table>
 
-----
+---
 
 ## 🏅 Expertise Badges
 
