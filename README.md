@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20Security%20Automation%20•%20Production%20Systems&descSize=18&descAlignY=52"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Generative+AI+%2B+Security+Automation+Engineer;I+ship+LangChain+agents+that+triage+SOC+alerts+and+patch+vulnerabilities;Enterprise-ready+AI+with+evaluations%2C+governance%2C+and+human-in-the-loop+guardrails;Claude+Code+%2B+GitHub+Copilot+velocity+without+sacrificing+safety" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Generative+AI+%2B+Security+Automation+Engineer;I+ship+LangChain+agents+that+triage+SOC+alerts+and+patch+vulnerabilities;Enterprise+AI%3A+evaluations%2C+governance%2C+and+human-in-the-loop+guardrails;Claude+Code+%2B+GitHub+Copilot+velocity+without+sacrificing+safety" alt="Typing SVG" />
 
 <br/>
 
