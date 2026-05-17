@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20Security%20Automation%20•%20Production%20Systems&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20Security%20Automation%20•%20Production%20Systems&descSize=18&descAlignY=52"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Ready+to+Transform+Your+Operations%3F;Sprint-Based+AI+%26+Security+Automation;Production-Ready+Systems+with+Full+Observability;Let's+Ship+Reliable%2C+Measurable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Ready+to+Transform+Your+Operations%3F;Sprint-Based+AI+%26+Security+Automation;Production-Ready+Systems+with+Full+Observability;Let's+Ship+Reliable%2C+Measurable+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## 🎯 What I Do
 
-I build **production AI systems** and **security automations** in **Python**, with a bias for **reliability, observability, and shipping**. If it's manual, repetitive, or high-stakes, I turn it into a **measurable, auditable workflow**.
+I build **production AI systems** and **security automations** in **Python**, with a bias for **reliability, observability, and shipping**. If it's manual, repetitive, or high-stakes, I turn it into a system that runs itself.
 
 ---
 
@@ -156,4 +156,4 @@ Every engagement includes **production-grade code**, **full observability**, and
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
