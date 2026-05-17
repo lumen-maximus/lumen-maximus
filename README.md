@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20Security%20Automation%20•%20Production%20Systems&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Generative+AI+%2B+Security+Automation+Engineer;I+ship+LangChain+agents+that+triage+SOC+alerts+and+patch+vulnerabilities;Enterprise+AI%3A+evaluations%2C+governance%2C+and+human-in-the-loop+guardrails;Claude+Code+%2B+GitHub+Copilot+velocity+without+sacrificing+safety" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Generative+AI+%2B+Security+Automation+Engineer;I+ship+LangChain+agents+that+triage+SOC+alerts%2C;patch+vulns%2C+and+survive+enterprise+governance." alt="Typing SVG" />
 
 <br/>
 
@@ -32,9 +32,73 @@
 
 ---
 
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [vuln-patch-agent](https://github.com/lumen-maximus/vuln-patch-agent)
+
+On-prem **LangGraph** agent that inspects systems, researches vendor patches (HTTPS + allowlist + redirect guards), generates structured patch plans with rationale, and exports **full decision traces via OpenTelemetry → Jaeger**.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Jaeger](https://img.shields.io/badge/-Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚨 [soc_triage_bot](https://github.com/lumen-maximus/soc_triage_bot)
+
+Async, **SIEM-agnostic** SOC triage service — concurrent enrichments (SIEM, EDR, TI, Vuln, CMDB), ETS forecasting, TF-IDF case retrieval, deterministic TP/FP classification, and ranked action proposals with Jinja Markdown reports.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![async](https://img.shields.io/badge/-async-4B8BBE?style=flat-square)
+![TF-IDF](https://img.shields.io/badge/-TF--IDF-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [healthcare-triage-agent](https://github.com/lumen-maximus/healthcare-triage-agent)
+
+Multi-agent **Emergency Department triage assistant** (LangGraph) producing structured **Immediate / Monitor / Escalate** recommendations with rationale and follow-up checklists. Augments — never replaces — clinical judgment.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [multi-agent-research-assistant](https://github.com/lumen-maximus/multi-agent-research-assistant)
+
+4-agent **LangGraph** company-research assistant — Clarity → Research → Validator → Synthesis. **Confidence-gated routing**, **human-in-the-loop interrupts**, bounded retries, multi-turn memory, pluggable Tavily search.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Tavily](https://img.shields.io/badge/-Tavily-7B61FF?style=flat-square)
+![HITL](https://img.shields.io/badge/-Human--in--the--Loop-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*Sanitized POCs and reference implementations — production work lives behind NDA.*
+
+</div>
+
+---
+
 ## 🎯 What I Do
 
-I build **production AI systems** and **security automations** in **Python** with **10+ years** across fintech, security, and AI. I'm shipping GenAI at a Fortune 50 bank (**American Express**). I build agentic workflows that automate SOC triage, vulnerability patching, ServiceNow change requests, and Slack incident response. My delivery style is shaped by tier-1 governance standards from **Amex, Truist, Bank of America, PNC, and UBS**.
+I build **production AI systems** and **security automations** in **Python** with **10+ years** across fintech, security, and AI. I'm shipping GenAI at a Fortune 50 bank (**American Express**). I've built agentic workflows that automate SOC triage, vulnerability patching, ServiceNow change requests, and Slack incident response — with the Tier-1 bank governance experience (Amex, Truist, BofA, PNC, UBS) to make them survive enterprise review.
 
 ---
 
