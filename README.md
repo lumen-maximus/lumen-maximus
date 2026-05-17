@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=MAXAVIER%20JEAN-PHILIPPE&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20•%20Security%20Automation%20•%20Production%20Systems&descSize=18&descAlignY=52"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Generative+AI+%2B+Security+Automation+Engineer;I+ship+LangChain+agents+that+triage+SOC+alerts+and+patch+vulnerabilities;Enterprise-ready+AI+with+evals%2C+governance%2C+and+human-in-the-loop+guardrails;Claude+Code+%2B+GitHub+Copilot+velocity+without+sacrificing+safety" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Generative+AI+%2B+Security+Automation+Engineer;I+ship+LangChain+agents+that+triage+SOC+alerts+and+patch+vulnerabilities;Enterprise-ready+AI+with+evaluations%2C+governance%2C+and+human-in-the-loop+guardrails;Claude+Code+%2B+GitHub+Copilot+velocity+without+sacrificing+safety" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 ## 🎯 What I Do
 
-I build **production AI systems** and **security automations** in **Python** with **10+ years** across fintech, security, and AI. I'm shipping GenAI at a Fortune 50 bank (**American Express**), and I build agentic workflows that automate SOC triage, vulnerability patching, ServiceNow change requests, and Slack incident response. My delivery style is shaped by tier-1 governance standards from **Amex, Truist, Bank of America, PNC, and UBS**.
+I build **production AI systems** and **security automations** in **Python** with **10+ years** across fintech, security, and AI. I'm shipping GenAI at a Fortune 50 bank (**American Express**). I build agentic workflows that automate SOC triage, vulnerability patching, ServiceNow change requests, and Slack incident response. My delivery style is shaped by tier-1 governance standards from **Amex, Truist, Bank of America, PNC, and UBS**.
 
 ---
 
@@ -105,17 +105,17 @@ I build **production AI systems** and **security automations** in **Python** wit
 
 | Package | Timeline | Outcome |
 |---|---|---|
-| **🚀 RAG / Agent Pilot** | 2–4 weeks | Production-grade LangChain workflow with evals, grounded citations, and OpenTelemetry observability |
+| **🚀 RAG / Agent Pilot** | 2–4 weeks | Production-grade LangChain workflow with evaluations, grounded citations, and OpenTelemetry observability |
 | **🛡️ SOC Automation Sprint** | 4–6 weeks | LLM-powered triage assistant, Slack IR bot, ServiceNow integration with audit trails |
 | **🤝 Fractional AI/Security Engineer** | Monthly retainer | Embedded with your team — ship continuously, governance-ready code, full observability |
 
-*Every engagement includes production-grade code, evals, observability, and clear documentation.*
+*Every engagement includes production-grade code, evaluations, observability, and clear documentation.*
 
 ---
 
 ## 🤖 AI-Native Engineering
 
-I build with **Claude Code** and **GitHub Copilot** in the loop — pairing senior judgment with AI velocity. Clients get faster shipping, tighter evals, and fewer regressions, without sacrificing the safety guardrails enterprise teams require.
+I build with **Claude Code** and **GitHub Copilot** in the loop — pairing senior judgment with AI velocity. Clients get faster shipping, tighter evaluations, and fewer regressions, without sacrificing the safety guardrails enterprise teams require.
 
 <div align="center">
 
